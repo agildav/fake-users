@@ -1,5 +1,6 @@
 # Node.js/Express.js Proyecto ATI2
-Node.js/Express.js Rest API fake-data-user
+Node.js/Express.js Rest API.
+Random user data with pagination.  
 
 1. Clone repo
 
