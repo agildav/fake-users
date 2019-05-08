@@ -1,4 +1,4 @@
-# Node.js/Express.js Proyecto ATI2
+# Node.js/Express.js ATI2 Project
 Node.js/Express.js Rest API.
 Random user data with pagination.  
 
